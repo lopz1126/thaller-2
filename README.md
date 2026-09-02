@@ -1,19 +1,18 @@
-# Matriz de Circunferencias interactiva en Python
+# Matriz de Circunferencias Interactiva
 
-Este proyecto es una aplicación de consola en Python que genera una matriz de 8x8 representada visualmente con símbolos de circunferencias (`○` y `●`). Permite modificar dinámicamente el estado de cualquier celda mediante coordenadas de fila y columna, reiniciar la matriz a su estado original o salir del programa de forma controlada.
+Este proyecto es una aplicación de consola desarrollada en Python que genera y gestiona una matriz de 8x8 con estados representados por circunferencias (`○` y `●`). Permite cambiar de manera interactiva el estado de cualquier celda según sus coordenadas, reiniciar la matriz o salir del programa.
 
 ---
 
-## 🚀 Requisitos Previos
+## 🚀 Requisitos Prácticos
 
-* **Python 3.6** o superior instalado en el sistema.
-* Este programa utiliza únicamente módulos nativos de Python, por lo que **no requiere librerías externas**.
+- **Python 3.6** o superior.
+- No se requieren librerías externas (utiliza únicamente módulos nativos de Python).
 
 ---
 
 ## 📥 Instalación
 
-1. **Clonar o descargar el repositorio:**
-   Descarga el código fuente o clona este repositorio en tu máquina local:
+1. **Clonar el repositorio:**
    ```bash
-   git clone <URL_DE_TU_REPOSITORIO>
+   git clone [https://github.com/lopz1126/thaller-2.git](https://github.com/lopz1126/thaller-2.git)
